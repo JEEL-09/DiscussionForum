@@ -31,7 +31,7 @@ To get started with QuickRite, follow these steps :
 To use QuickRite, follow these steps :
 
 ### Sign Up
-To sign up for an account, click the "Sign Up" button on the homepage and fill out the registration form. Once you have registered, then after click on the login and then you redirected to homeoage.
+To sign up for an account, click the "Sign Up" button on the homepage and fill out the registration form. Once you have registered,then you redirected to homeoage.
 
 ### Log In
 To log in to your account, click the "Log In" button on the homepage and enter your username and password. Once you have logged in, you will be redirected to the homepage.

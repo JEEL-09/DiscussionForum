@@ -1,0 +1,64 @@
+﻿@model IEnumerable<DiscussionForumCore.Models.Question>
+
+@{
+    ViewData["Title"] = "Details";
+    var PhotoPath1 = "~/images/";
+    string userId = ViewBag.UserId;
+    Boolean flag = false;
+}
+
+
+@foreach (Question item in Model)
+{
+    var ProfilePicPath = PhotoPath1 + item.ProfilePic;
+    var PhotoPath2 = PhotoPath1 + item.PhotoPath;
+
+    flag = true;
+    <div class="row justify-content-center" style="margin:5%">
+        <div class="col-sm-8">
+            <div class="card">
+                <div class="card-header" style="display:flex">
+                    <img alt="loginImg" class="post_img" src="@ProfilePicPath" asp-append-version="true" />
+                    <div class="post_user">
+                        <h5>@item.Name</h5>
+                    </div>
+                    <div style="margin-left:auto">
+                        @if (@item.appUserId == @userId)
+                        {
+                            <a class="btn btn-primary" style="max-height: 5vh; text-align: center;" asp-action="Edit" asp-controller="Question" asp-route-id="@item.Id"><i class="bi bi-pencil-square"></i></a>
+                        } &nbsp;&nbsp;&nbsp;
+                        <a class="btn btn-warning" style="max-height: 5vh; text-align: center;" asp-action="Details" asp-controller="Question" asp-route-id="@item.Id"><i class="bi bi-info-circle"></i></a> &nbsp;&nbsp;&nbsp;
+                        @if (@item.appUserId == @userId)
+                        {
+                            <a class="btn btn-danger" style="max-height: 5vh; text-align: center;" asp-action="Delete" asp-controller="Question" asp-route-id="@item.Id"> <i class="bi bi-trash-fill"></i> </a>
+                        } &nbsp;&nbsp;&nbsp;
+                    </div>
+                </div>
+                <div class="card-body" style="display:flex ;">
+                    <h4>@item.question</h4>
+                    <br />
+                </div>
+                @if (@item.PhotoPath != null)
+                {
+                    <div class="card-body text-center">
+                        <img style="width:30vw;height:40vh;" src="@PhotoPath2" asp-append-version="true" />
+                    </div>
+                }
+                <br />
+                <div class="card-footer" style="display:flex;justify-content:space-between">
+                    <a class="btn btn-primary" style="max-height: 5vh; text-align: center;" asp-action="Create" asp-controller="Answer" asp-route-id="@item.Id">Add Answer</a> &nbsp;&nbsp;&nbsp;
+                    <a class="btn btn-primary" style="max-height: 5vh; text-align: center;" asp-action="ViewAnswer" asp-controller="Question" asp-route-id="@item.Id">View Answer</a> &nbsp;&nbsp;&nbsp;
+                </div>
+
+            </div>
+        </div>
+    </div>
+    <br />
+}
+
+
+@if (!flag)
+{
+    <h3  style="display:flex;align-items:center;justify-content:center">No Questions Posted </h3>
+}
+

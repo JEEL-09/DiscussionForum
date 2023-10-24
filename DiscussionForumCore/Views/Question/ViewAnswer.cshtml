@@ -1,0 +1,54 @@
+﻿@model IEnumerable<DiscussionForumCore.Models.Answer>
+
+@{
+    ViewData["Title"] = "Index";
+    string userId = ViewBag.userId;
+    Boolean flag = false;
+
+}
+
+
+
+<h4 style="display:flex; align-items:center; justify-content:center">Answers</h4>
+<hr />
+<br />
+<br />
+@foreach (Answer item in Model)
+{
+    flag = true;
+    <div class="row justify-content-center m-1">
+        <div class="col-sm-8">
+            <div class="card">
+                <div class="card-header" style="display: flex; align-items: center; justify-content: center; text-align:center">
+                    <h4>@item.answer</h4>
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    @if (@item.appUserId == @userId)
+                    {
+                        <a style="max-height: 5vh; text-align: center;" asp-action="Edit" asp-controller="Answer" asp-route-id="@item.Id"><i class="bi bi-pencil-square"></i></a>
+                    }
+                    &nbsp;&nbsp;&nbsp;
+                    <a style="max-height: 5vh; text-align: center;" asp-action="Details" asp-controller="Answer" asp-route-id="@item.Id"><i class="bi bi-info-circle"></i></a> &nbsp;&nbsp;&nbsp;
+
+                    @if (@item.appUserId == @userId)
+                    {
+
+                        <a style="max-height: 5vh; text-align: center;" asp-action="Delete" asp-controller="Answer" asp-route-id="@item.Id"><i class="bi bi-trash-fill"></i></a>
+                    }&nbsp; &nbsp; &nbsp;
+                    <br />
+                </div>
+            </div>
+        </div>
+    </div>
+    <br />
+}
+
+
+@if (!flag)
+{
+    <h3>No Answers Posted </h3>
+}

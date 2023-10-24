@@ -1,0 +1,53 @@
+﻿@model IEnumerable<DiscussionForumCore.Models.Answer>
+
+@{
+    ViewData["Title"] = "Details";
+    var PhotoPath = "~/images/";
+    string userId = ViewBag.UserId;
+    Boolean flag = false;
+
+}
+
+
+@foreach (Answer item in Model)
+{
+
+    var ProfilePicPath = PhotoPath + item.ProfilePic;
+    flag = true;
+    <div class="row justify-content-center" style="margin:5%">
+        <div class="col-sm-8">
+            <div class="card" >
+                <div class="card-header" style="display:flex">
+                    <img alt="loginImg" class="post_img" src="@ProfilePicPath" asp-append-version="true" />
+                    <div class="post_user">
+                        <h5>@item.Name</h5>
+                    </div>
+                    <div style="margin-left:auto">
+                        @if (@item.appUserId == @userId)
+                        {
+                            <a class="btn btn-primary" style="max-height: 5vh; text-align: center;" asp-action="Edit" asp-controller="Answer" asp-route-id="@item.Id"><i class="bi bi-pencil-square"></i></a>
+                        } &nbsp;&nbsp;&nbsp;
+                        <a class="btn btn-warning" style="max-height: 5vh; text-align: center;" asp-action="Details" asp-controller="Answer" asp-route-id="@item.Id"><i class="bi bi-info-circle"></i></a> &nbsp;&nbsp;&nbsp;
+                        @if (@item.appUserId == @userId)
+                        {
+                            <a class="btn btn-danger" style="max-height: 5vh; text-align: center;" asp-action="Delete" asp-controller="Answer" asp-route-id="@item.Id"> <i class="bi bi-trash-fill"></i> </a>
+                        } &nbsp;&nbsp;&nbsp;
+                    </div>
+
+                </div>
+                <div class="card-body" style="display: flex;align-items:center;justify-content:center">
+
+                    <h4>@item.answer</h4>
+                    <br />
+                   
+                </div>
+
+            </div>
+        </div>
+    </div>
+}
+
+@if (!flag)
+{
+    <h3  style="display:flex;align-items:center;justify-content:center">No Answers Posted </h3>
+}

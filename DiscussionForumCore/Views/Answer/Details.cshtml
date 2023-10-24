@@ -1,0 +1,75 @@
+﻿@using DiscussionForumCore
+@model dynamic
+
+@{
+    var PhotoPath = "~/images/" + Model.question1.PhotoPath;
+    string userId = ViewBag.UserId;
+    var ProfilePicPath = "~/images/" + Model.question1.ProfilePic;
+    var ProfilePicPath1 = "~/images/" + Model.answer1.ProfilePic;
+
+    ViewData["Title"] = "Details";
+}
+
+<h3 style="display:flex;align-items:center;justify-content:center;"> Question </h3>
+
+
+<div style="margin-top:1rem">
+    <div class="row justify-content-center m-1">
+        <div class="col-sm-8">
+            <div class="card">
+                <div class="card-header" style="display:flex ; ">
+                    <img alt="loginImg" class="post_img" src="@ProfilePicPath" asp-append-version="true" />
+                    <div class="post_user">
+                        <h5>@Model.question1.Name</h5>
+                    </div>
+
+                </div>
+                <div class="card-body">
+                    <h4>@Model.question1.question</h4>
+                </div>
+                @if (Model.question1.PhotoPath != null)
+                {
+                    <div class="card-body text-center">
+                        <img style="max-width:100%;max-height:15vw;" src="@PhotoPath" asp-append-version="true" />
+                    </div>
+                }
+            </div>
+        </div>
+    </div>
+</div>
+
+<h3 style="display:flex;align-items:center;justify-content:center;"> Answer </h3>
+
+
+<div>
+    
+    <div class="row justify-content-center m-1">
+        <div class="col-sm-8">
+            <div class="card" >
+                <div class="card-header">
+                    <img alt="loginImg" class="post_img" src="@ProfilePicPath1" asp-append-version="true" />
+                    <div class="post_user">
+                        <h5>@Model.answer1.Name</h5>
+                    </div>
+                </div>
+                <div class="card-body" style="display: flex; ">
+                    <h5>@Model.answer1.answer</h5>
+                    <br />
+                </div>
+            </div>
+        </div>
+    </div>
+
+</div>
+<div>
+    @if (Model.answer1.appUserId == @userId)
+    {
+        <a style="max-height: 5vh; text-align: center;" asp-action="Edit" asp-controller="Answer" asp-route-id="@Model.answer1.Id"><i class="bi bi-pencil-square"></i></a>
+    }
+    &nbsp;&nbsp;&nbsp;
+    @if (Model.answer1.appUserId == @userId)
+    {
+        <a style="max-height: 5vh; text-align: center;" asp-action="Delete" asp-controller="Answer" asp-route-id="@Model.answer1.Id"> <i class="bi bi-trash-fill"></i></a>
+    }
+    &nbsp;&nbsp;&nbsp;
+</div>

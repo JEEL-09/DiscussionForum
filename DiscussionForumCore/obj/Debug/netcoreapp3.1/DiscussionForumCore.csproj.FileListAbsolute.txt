@@ -1,0 +1,730 @@
+D:\Vrundan\WDDN_CORE_Project\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Vrundan\WDDN_CORE_Project\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Vrundan\WDDN_CORE_Project\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\DiscussionForumCore.exe
+D:\Vrundan\WDDN_CORE_Project\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\DiscussionForumCore.deps.json
+D:\Vrundan\WDDN_CORE_Project\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\DiscussionForumCore.runtimeconfig.json
+D:\Vrundan\WDDN_CORE_Project\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\DiscussionForumCore.runtimeconfig.dev.json
+D:\Vrundan\WDDN_CORE_Project\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\DiscussionForumCore.dll
+D:\Vrundan\WDDN_CORE_Project\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\DiscussionForumCore.pdb
+D:\Vrundan\WDDN_CORE_Project\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\DiscussionForumCore.Views.dll
+D:\Vrundan\WDDN_CORE_Project\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\DiscussionForumCore.Views.pdb
+D:\Vrundan\WDDN_CORE_Project\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\Vrundan\WDDN_CORE_Project\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Vrundan\WDDN_CORE_Project\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Vrundan\WDDN_CORE_Project\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Vrundan\WDDN_CORE_Project\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Vrundan\WDDN_CORE_Project\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Vrundan\WDDN_CORE_Project\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Vrundan\WDDN_CORE_Project\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Vrundan\WDDN_CORE_Project\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Vrundan\WDDN_CORE_Project\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Vrundan\WDDN_CORE_Project\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Vrundan\WDDN_CORE_Project\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Vrundan\WDDN_CORE_Project\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Vrundan\WDDN_CORE_Project\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Vrundan\WDDN_CORE_Project\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Vrundan\WDDN_CORE_Project\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+D:\Vrundan\WDDN_CORE_Project\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+D:\Vrundan\WDDN_CORE_Project\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Vrundan\WDDN_CORE_Project\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Vrundan\WDDN_CORE_Project\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Vrundan\WDDN_CORE_Project\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Vrundan\WDDN_CORE_Project\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Vrundan\WDDN_CORE_Project\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Vrundan\WDDN_CORE_Project\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Vrundan\WDDN_CORE_Project\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Vrundan\WDDN_CORE_Project\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Vrundan\WDDN_CORE_Project\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Vrundan\WDDN_CORE_Project\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Vrundan\WDDN_CORE_Project\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Vrundan\WDDN_CORE_Project\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\Vrundan\WDDN_CORE_Project\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Vrundan\WDDN_CORE_Project\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Vrundan\WDDN_CORE_Project\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Vrundan\WDDN_CORE_Project\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Vrundan\WDDN_CORE_Project\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Vrundan\WDDN_CORE_Project\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Vrundan\WDDN_CORE_Project\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Vrundan\WDDN_CORE_Project\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Vrundan\WDDN_CORE_Project\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Vrundan\WDDN_CORE_Project\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Vrundan\WDDN_CORE_Project\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Vrundan\WDDN_CORE_Project\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Vrundan\WDDN_CORE_Project\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Vrundan\WDDN_CORE_Project\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Vrundan\WDDN_CORE_Project\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Vrundan\WDDN_CORE_Project\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Vrundan\WDDN_CORE_Project\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Vrundan\WDDN_CORE_Project\DiscussionForumCore\DiscussionForumCore\obj\Debug\netcoreapp3.1\DiscussionForumCore.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vrundan\WDDN_CORE_Project\DiscussionForumCore\DiscussionForumCore\obj\Debug\netcoreapp3.1\DiscussionForumCore.AssemblyInfoInputs.cache
+D:\Vrundan\WDDN_CORE_Project\DiscussionForumCore\DiscussionForumCore\obj\Debug\netcoreapp3.1\DiscussionForumCore.AssemblyInfo.cs
+D:\Vrundan\WDDN_CORE_Project\DiscussionForumCore\DiscussionForumCore\obj\Debug\netcoreapp3.1\DiscussionForumCore.csproj.CoreCompileInputs.cache
+D:\Vrundan\WDDN_CORE_Project\DiscussionForumCore\DiscussionForumCore\obj\Debug\netcoreapp3.1\DiscussionForumCore.MvcApplicationPartsAssemblyInfo.cache
+D:\Vrundan\WDDN_CORE_Project\DiscussionForumCore\DiscussionForumCore\obj\Debug\netcoreapp3.1\DiscussionForumCore.RazorAssemblyInfo.cache
+D:\Vrundan\WDDN_CORE_Project\DiscussionForumCore\DiscussionForumCore\obj\Debug\netcoreapp3.1\DiscussionForumCore.RazorAssemblyInfo.cs
+D:\Vrundan\WDDN_CORE_Project\DiscussionForumCore\DiscussionForumCore\obj\Debug\netcoreapp3.1\staticwebassets\DiscussionForumCore.StaticWebAssets.Manifest.cache
+D:\Vrundan\WDDN_CORE_Project\DiscussionForumCore\DiscussionForumCore\obj\Debug\netcoreapp3.1\staticwebassets\DiscussionForumCore.StaticWebAssets.xml
+D:\Vrundan\WDDN_CORE_Project\DiscussionForumCore\DiscussionForumCore\obj\Debug\netcoreapp3.1\scopedcss\bundle\DiscussionForumCore.styles.css
+D:\Vrundan\WDDN_CORE_Project\DiscussionForumCore\DiscussionForumCore\obj\Debug\netcoreapp3.1\DiscussionForumCore.TagHelpers.input.cache
+D:\Vrundan\WDDN_CORE_Project\DiscussionForumCore\DiscussionForumCore\obj\Debug\netcoreapp3.1\DiscussionForumCore.TagHelpers.output.cache
+D:\Vrundan\WDDN_CORE_Project\DiscussionForumCore\DiscussionForumCore\obj\Debug\netcoreapp3.1\DiscussionForumCore.RazorCoreGenerate.cache
+D:\Vrundan\WDDN_CORE_Project\DiscussionForumCore\DiscussionForumCore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Vrundan\WDDN_CORE_Project\DiscussionForumCore\DiscussionForumCore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Vrundan\WDDN_CORE_Project\DiscussionForumCore\DiscussionForumCore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Vrundan\WDDN_CORE_Project\DiscussionForumCore\DiscussionForumCore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Vrundan\WDDN_CORE_Project\DiscussionForumCore\DiscussionForumCore\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Vrundan\WDDN_CORE_Project\DiscussionForumCore\DiscussionForumCore\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Vrundan\WDDN_CORE_Project\DiscussionForumCore\DiscussionForumCore\obj\Debug\netcoreapp3.1\DiscussionForumCore.RazorTargetAssemblyInfo.cache
+D:\Vrundan\WDDN_CORE_Project\DiscussionForumCore\DiscussionForumCore\obj\Debug\netcoreapp3.1\DiscussionForumCore.RazorTargetAssemblyInfo.cs
+D:\Vrundan\WDDN_CORE_Project\DiscussionForumCore\DiscussionForumCore\obj\Debug\netcoreapp3.1\DiscussionForumCore.Views.pdb
+D:\Vrundan\WDDN_CORE_Project\DiscussionForumCore\DiscussionForumCore\obj\Debug\netcoreapp3.1\DiscussionForumCore.csproj.CopyComplete
+D:\Vrundan\WDDN_CORE_Project\DiscussionForumCore\DiscussionForumCore\obj\Debug\netcoreapp3.1\DiscussionForumCore.dll
+D:\Vrundan\WDDN_CORE_Project\DiscussionForumCore\DiscussionForumCore\obj\Debug\netcoreapp3.1\DiscussionForumCore.pdb
+D:\Vrundan\WDDN_CORE_Project\DiscussionForumCore\DiscussionForumCore\obj\Debug\netcoreapp3.1\DiscussionForumCore.genruntimeconfig.cache
+D:\Vrundan\WDDN_CORE_Project\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\Vrundan\WDDN_CORE_Project\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\Vrundan\WDDN_CORE_Project\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\Vrundan\WDDN_CORE_Project\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Vrundan\WDDN_CORE_Project\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\Vrundan\WDDN_CORE_Project\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Vrundan\WDDN_CORE_Project\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Vrundan\WDDN_CORE_Project\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Vrundan\WDDN_CORE_Project\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Vrundan\WDDN_CORE_Project\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\Vrundan\WDDN_CORE_Project\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Vrundan\WDDN_CORE_Project\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Vrundan\WDDN_CORE_Project\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Vrundan\WDDN_CORE_Project\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Vrundan\WDDN_CORE_Project\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\Vrundan\WDDN_CORE_Project\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\Vrundan\WDDN_CORE_Project\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\Vrundan\WDDN_CORE_Project\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\Vrundan\WDDN_CORE_Project\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\Vrundan\WDDN_CORE_Project\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\Vrundan\WDDN_CORE_Project\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Vrundan\WDDN_CORE_Project\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\Vrundan\WDDN_CORE_Project\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\Vrundan\WDDN_CORE_Project\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Vrundan\WDDN_CORE_Project\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\Vrundan\WDDN_CORE_Project\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Vrundan\WDDN_CORE_Project\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Vrundan\WDDN_CORE_Project\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Vrundan\WDDN_CORE_Project\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Vrundan\WDDN_CORE_Project\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Vrundan\WDDN_CORE_Project\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Vrundan\WDDN_CORE_Project\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Vrundan\WDDN_CORE_Project\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Vrundan\WDDN_CORE_Project\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Vrundan\WDDN_CORE_Project\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Vrundan\WDDN_CORE_Project\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Vrundan\WDDN_CORE_Project\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Vrundan\WDDN_CORE_Project\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Vrundan\WDDN_CORE_Project\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Vrundan\WDDN_CORE_Project\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Vrundan\WDDN_CORE_Project\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Vrundan\WDDN_CORE_Project\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Vrundan\WDDN_CORE_Project\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Vrundan\WDDN_CORE_Project\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Vrundan\WDDN_CORE_Project\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Vrundan\WDDN_CORE_Project\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Vrundan\WDDN_CORE_Project\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Vrundan\WDDN_CORE_Project\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Vrundan\WDDN_CORE_Project\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Vrundan\WDDN_CORE_Project\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Vrundan\WDDN_CORE_Project\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Vrundan\WDDN_CORE_Project\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Vrundan\WDDN_CORE_Project\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Vrundan\WDDN_CORE_Project\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Vrundan\WDDN_CORE_Project\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Vrundan\WDDN_CORE_Project\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Vrundan\WDDN_CORE_Project\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Vrundan\WDDN_CORE_Project\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Vrundan\WDDN_CORE_Project\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Vrundan\WDDN_CORE_Project\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Vrundan\WDDN_CORE_Project\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Vrundan\WDDN_CORE_Project\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Vrundan\WDDN_CORE_Project\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Vrundan\WDDN_CORE_Project\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Vrundan\WDDN_CORE_Project\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Vrundan\WDDN_CORE_Project\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Vrundan\WDDN_CORE_Project\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Vrundan\WDDN_CORE_Project\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Vrundan\WDDN_CORE_Project\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Vrundan\WDDN_CORE_Project\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Vrundan\WDDN_CORE_Project\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Vrundan\WDDN_CORE_Project\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Vrundan\WDDN_CORE_Project\DiscussionForumCore\DiscussionForumCore\obj\Debug\netcoreapp3.1\Razor\Views\Question\Index.cshtml.g.cs
+D:\Vrundan\WDDN_CORE_Project\DiscussionForumCore\DiscussionForumCore\obj\Debug\netcoreapp3.1\Razor\Views\Question\Create.cshtml.g.cs
+D:\Vrundan\WDDN_CORE_Project\DiscussionForumCore\DiscussionForumCore\obj\Debug\netcoreapp3.1\Razor\Views\Question\Details.cshtml.g.cs
+D:\Vrundan\WDDN_CORE_Project\DiscussionForumCore\DiscussionForumCore\obj\Debug\netcoreapp3.1\Razor\Views\Question\Edit.cshtml.g.cs
+D:\Vrundan\WDDN_CORE_Project\DiscussionForumCore\DiscussionForumCore\obj\Debug\netcoreapp3.1\Razor\Views\Question\Delete.cshtml.g.cs
+D:\Vrundan\WDDN_CORE_Project\DiscussionForumCore\DiscussionForumCore\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+D:\Vrundan\WDDN_CORE_Project\DiscussionForumCore\DiscussionForumCore\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+D:\Vrundan\WDDN_CORE_Project\DiscussionForumCore\DiscussionForumCore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Vrundan\WDDN_CORE_Project\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\libman.json
+D:\Vrundan\WDDN_CORE_Project\DiscussionForumCore\DiscussionForumCore\obj\Debug\netcoreapp3.1\DiscussionForumCore.csproj.AssemblyReference.cache
+D:\Vrundan\WDDN_CORE_Project\DiscussionForumCore\DiscussionForumCore\obj\Debug\netcoreapp3.1\Razor\Views\Answer\Index.cshtml.g.cs
+D:\Vrundan\WDDN_CORE_Project\DiscussionForumCore\DiscussionForumCore\obj\Debug\netcoreapp3.1\Razor\Views\Answer\Create.cshtml.g.cs
+D:\Vrundan\WDDN_CORE_Project\DiscussionForumCore\DiscussionForumCore\obj\Debug\netcoreapp3.1\Razor\Views\Answer\Details.cshtml.g.cs
+D:\Vrundan\WDDN_CORE_Project\DiscussionForumCore\DiscussionForumCore\obj\Debug\netcoreapp3.1\Razor\Views\Answer\Edit.cshtml.g.cs
+D:\Vrundan\WDDN_CORE_Project\DiscussionForumCore\DiscussionForumCore\obj\Debug\netcoreapp3.1\Razor\Views\Answer\Delete.cshtml.g.cs
+D:\Vrundan\WDDN_CORE_Project\DiscussionForumCore\DiscussionForumCore\obj\Debug\netcoreapp3.1\Razor\Views\Account\ViewQuestions.cshtml.g.cs
+D:\Vrundan\WDDN_CORE_Project\DiscussionForumCore\DiscussionForumCore\obj\Debug\netcoreapp3.1\Razor\Views\Account\Edit.cshtml.g.cs
+D:\Vrundan\WDDN_CORE_Project\DiscussionForumCore\DiscussionForumCore\obj\Debug\netcoreapp3.1\Razor\Views\Account\AllQuestions.cshtml.g.cs
+D:\Vrundan\WDDN_CORE_Project\DiscussionForumCore\DiscussionForumCore\obj\Debug\netcoreapp3.1\Razor\Views\Account\_Layout.cshtml.g.cs
+D:\Vrundan\WDDN_CORE_Project\DiscussionForumCore\DiscussionForumCore\obj\Debug\netcoreapp3.1\Razor\Views\Account\AllAnswers.cshtml.g.cs
+D:\Vrundan\WDDN_CORE_Project\DiscussionForumCore\DiscussionForumCore\obj\Debug\netcoreapp3.1\Razor\Views\Question\Search.cshtml.g.cs
+D:\Vrundan\WDDN_CORE_Project\DiscussionForumCore\DiscussionForumCore\obj\Debug\netcoreapp3.1\Razor\Views\SavedPost\SavedPost.cshtml.g.cs
+D:\Vrundan\WDDN_CORE_Project\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+D:\Vrundan\WDDN_CORE_Project\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\Microsoft.Threading.Tasks.Extensions.dll
+D:\Vrundan\WDDN_CORE_Project\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\Microsoft.Threading.Tasks.dll
+D:\Vrundan\WDDN_CORE_Project\DiscussionForumCore\DiscussionForumCore\obj\Debug\netcoreapp3.1\Razor\Views\Question\ViewAnswer.cshtml.g.cs
+E:\NetCore\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\NetCore\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\appsettings.json
+E:\NetCore\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\libman.json
+E:\NetCore\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\DiscussionForumCore.exe
+E:\NetCore\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\DiscussionForumCore.deps.json
+E:\NetCore\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\DiscussionForumCore.runtimeconfig.json
+E:\NetCore\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\DiscussionForumCore.runtimeconfig.dev.json
+E:\NetCore\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\DiscussionForumCore.dll
+E:\NetCore\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\DiscussionForumCore.pdb
+E:\NetCore\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\DiscussionForumCore.Views.dll
+E:\NetCore\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\DiscussionForumCore.Views.pdb
+E:\NetCore\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\Humanizer.dll
+E:\NetCore\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\NetCore\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\NetCore\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\NetCore\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+E:\NetCore\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+E:\NetCore\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\Microsoft.Threading.Tasks.Extensions.dll
+E:\NetCore\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\Microsoft.Threading.Tasks.dll
+E:\NetCore\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\NetCore\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+E:\NetCore\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\NetCore\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+E:\NetCore\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+E:\NetCore\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\NetCore\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\NetCore\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\NetCore\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\NetCore\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\NetCore\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\NetCore\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\NetCore\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\NetCore\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\NetCore\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\NetCore\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\NetCore\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+E:\NetCore\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+E:\NetCore\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\NetCore\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\NetCore\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\NetCore\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\NetCore\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\NetCore\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\NetCore\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\NetCore\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\NetCore\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\NetCore\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\NetCore\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\NetCore\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\NetCore\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\NetCore\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+E:\NetCore\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\NetCore\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\NetCore\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\NetCore\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\NetCore\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\NetCore\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+E:\NetCore\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\NetCore\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+E:\NetCore\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+E:\NetCore\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+E:\NetCore\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+E:\NetCore\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+E:\NetCore\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+E:\NetCore\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\NetCore\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\NetCore\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\NetCore\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\NetCore\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\NetCore\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+E:\NetCore\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+E:\NetCore\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+E:\NetCore\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+E:\NetCore\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+E:\NetCore\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+E:\NetCore\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+E:\NetCore\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+E:\NetCore\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\NetCore\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+E:\NetCore\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+E:\NetCore\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\NetCore\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\NetCore\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\NetCore\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\NetCore\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\NetCore\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\NetCore\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\NetCore\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\NetCore\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\NetCore\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\NetCore\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\NetCore\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\NetCore\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\NetCore\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\NetCore\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\NetCore\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\NetCore\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\NetCore\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\NetCore\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\NetCore\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\NetCore\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\NetCore\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\NetCore\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\NetCore\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\NetCore\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\NetCore\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\NetCore\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\NetCore\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\NetCore\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\NetCore\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\NetCore\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\NetCore\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\NetCore\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\NetCore\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\NetCore\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\NetCore\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\NetCore\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\NetCore\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\NetCore\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\NetCore\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\NetCore\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\NetCore\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\NetCore\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\NetCore\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\NetCore\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\NetCore\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\NetCore\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\NetCore\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\NetCore\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\NetCore\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\NetCore\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\NetCore\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\NetCore\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\NetCore\DiscussionForumCore\DiscussionForumCore\obj\Debug\netcoreapp3.1\DiscussionForumCore.csproj.AssemblyReference.cache
+E:\NetCore\DiscussionForumCore\DiscussionForumCore\obj\Debug\netcoreapp3.1\DiscussionForumCore.GeneratedMSBuildEditorConfig.editorconfig
+E:\NetCore\DiscussionForumCore\DiscussionForumCore\obj\Debug\netcoreapp3.1\DiscussionForumCore.AssemblyInfoInputs.cache
+E:\NetCore\DiscussionForumCore\DiscussionForumCore\obj\Debug\netcoreapp3.1\DiscussionForumCore.AssemblyInfo.cs
+E:\NetCore\DiscussionForumCore\DiscussionForumCore\obj\Debug\netcoreapp3.1\DiscussionForumCore.csproj.CoreCompileInputs.cache
+E:\NetCore\DiscussionForumCore\DiscussionForumCore\obj\Debug\netcoreapp3.1\DiscussionForumCore.MvcApplicationPartsAssemblyInfo.cache
+E:\NetCore\DiscussionForumCore\DiscussionForumCore\obj\Debug\netcoreapp3.1\DiscussionForumCore.RazorAssemblyInfo.cache
+E:\NetCore\DiscussionForumCore\DiscussionForumCore\obj\Debug\netcoreapp3.1\DiscussionForumCore.RazorAssemblyInfo.cs
+E:\NetCore\DiscussionForumCore\DiscussionForumCore\obj\Debug\netcoreapp3.1\staticwebassets\DiscussionForumCore.StaticWebAssets.Manifest.cache
+E:\NetCore\DiscussionForumCore\DiscussionForumCore\obj\Debug\netcoreapp3.1\staticwebassets\DiscussionForumCore.StaticWebAssets.xml
+E:\NetCore\DiscussionForumCore\DiscussionForumCore\obj\Debug\netcoreapp3.1\scopedcss\bundle\DiscussionForumCore.styles.css
+E:\NetCore\DiscussionForumCore\DiscussionForumCore\obj\Debug\netcoreapp3.1\DiscussionForumCore.TagHelpers.input.cache
+E:\NetCore\DiscussionForumCore\DiscussionForumCore\obj\Debug\netcoreapp3.1\DiscussionForumCore.TagHelpers.output.cache
+E:\NetCore\DiscussionForumCore\DiscussionForumCore\obj\Debug\netcoreapp3.1\DiscussionForumCore.RazorCoreGenerate.cache
+E:\NetCore\DiscussionForumCore\DiscussionForumCore\obj\Debug\netcoreapp3.1\Razor\Views\Account\AllAnswers.cshtml.g.cs
+E:\NetCore\DiscussionForumCore\DiscussionForumCore\obj\Debug\netcoreapp3.1\Razor\Views\Account\AllQuestions.cshtml.g.cs
+E:\NetCore\DiscussionForumCore\DiscussionForumCore\obj\Debug\netcoreapp3.1\Razor\Views\Account\Edit.cshtml.g.cs
+E:\NetCore\DiscussionForumCore\DiscussionForumCore\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+E:\NetCore\DiscussionForumCore\DiscussionForumCore\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+E:\NetCore\DiscussionForumCore\DiscussionForumCore\obj\Debug\netcoreapp3.1\Razor\Views\Account\ViewQuestions.cshtml.g.cs
+E:\NetCore\DiscussionForumCore\DiscussionForumCore\obj\Debug\netcoreapp3.1\Razor\Views\Account\_Layout.cshtml.g.cs
+E:\NetCore\DiscussionForumCore\DiscussionForumCore\obj\Debug\netcoreapp3.1\Razor\Views\Answer\Create.cshtml.g.cs
+E:\NetCore\DiscussionForumCore\DiscussionForumCore\obj\Debug\netcoreapp3.1\Razor\Views\Answer\Delete.cshtml.g.cs
+E:\NetCore\DiscussionForumCore\DiscussionForumCore\obj\Debug\netcoreapp3.1\Razor\Views\Answer\Details.cshtml.g.cs
+E:\NetCore\DiscussionForumCore\DiscussionForumCore\obj\Debug\netcoreapp3.1\Razor\Views\Answer\Edit.cshtml.g.cs
+E:\NetCore\DiscussionForumCore\DiscussionForumCore\obj\Debug\netcoreapp3.1\Razor\Views\Answer\Index.cshtml.g.cs
+E:\NetCore\DiscussionForumCore\DiscussionForumCore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\NetCore\DiscussionForumCore\DiscussionForumCore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\NetCore\DiscussionForumCore\DiscussionForumCore\obj\Debug\netcoreapp3.1\Razor\Views\Question\Create.cshtml.g.cs
+E:\NetCore\DiscussionForumCore\DiscussionForumCore\obj\Debug\netcoreapp3.1\Razor\Views\Question\Delete.cshtml.g.cs
+E:\NetCore\DiscussionForumCore\DiscussionForumCore\obj\Debug\netcoreapp3.1\Razor\Views\Question\Details.cshtml.g.cs
+E:\NetCore\DiscussionForumCore\DiscussionForumCore\obj\Debug\netcoreapp3.1\Razor\Views\Question\Edit.cshtml.g.cs
+E:\NetCore\DiscussionForumCore\DiscussionForumCore\obj\Debug\netcoreapp3.1\Razor\Views\Question\Index.cshtml.g.cs
+E:\NetCore\DiscussionForumCore\DiscussionForumCore\obj\Debug\netcoreapp3.1\Razor\Views\Question\Search.cshtml.g.cs
+E:\NetCore\DiscussionForumCore\DiscussionForumCore\obj\Debug\netcoreapp3.1\Razor\Views\Question\ViewAnswer.cshtml.g.cs
+E:\NetCore\DiscussionForumCore\DiscussionForumCore\obj\Debug\netcoreapp3.1\Razor\Views\SavedPost\SavedPost.cshtml.g.cs
+E:\NetCore\DiscussionForumCore\DiscussionForumCore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+E:\NetCore\DiscussionForumCore\DiscussionForumCore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\NetCore\DiscussionForumCore\DiscussionForumCore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\NetCore\DiscussionForumCore\DiscussionForumCore\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\NetCore\DiscussionForumCore\DiscussionForumCore\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\NetCore\DiscussionForumCore\DiscussionForumCore\obj\Debug\netcoreapp3.1\DiscussionForumCore.RazorTargetAssemblyInfo.cache
+E:\NetCore\DiscussionForumCore\DiscussionForumCore\obj\Debug\netcoreapp3.1\DiscussionForumCore.RazorTargetAssemblyInfo.cs
+E:\NetCore\DiscussionForumCore\DiscussionForumCore\obj\Debug\netcoreapp3.1\DiscussionForumCore.Views.pdb
+E:\NetCore\DiscussionForumCore\DiscussionForumCore\obj\Debug\netcoreapp3.1\DiscussionForumCore.csproj.CopyComplete
+E:\NetCore\DiscussionForumCore\DiscussionForumCore\obj\Debug\netcoreapp3.1\DiscussionForumCore.dll
+E:\NetCore\DiscussionForumCore\DiscussionForumCore\obj\Debug\netcoreapp3.1\DiscussionForumCore.pdb
+E:\NetCore\DiscussionForumCore\DiscussionForumCore\obj\Debug\netcoreapp3.1\DiscussionForumCore.genruntimeconfig.cache
+D:\Vrundan\WDDN\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Vrundan\WDDN\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Vrundan\WDDN\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\libman.json
+D:\Vrundan\WDDN\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\DiscussionForumCore.exe
+D:\Vrundan\WDDN\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\DiscussionForumCore.deps.json
+D:\Vrundan\WDDN\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\DiscussionForumCore.runtimeconfig.json
+D:\Vrundan\WDDN\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\DiscussionForumCore.runtimeconfig.dev.json
+D:\Vrundan\WDDN\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\DiscussionForumCore.dll
+D:\Vrundan\WDDN\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\DiscussionForumCore.pdb
+D:\Vrundan\WDDN\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\DiscussionForumCore.Views.dll
+D:\Vrundan\WDDN\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\DiscussionForumCore.Views.pdb
+D:\Vrundan\WDDN\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\Vrundan\WDDN\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Vrundan\WDDN\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Vrundan\WDDN\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Vrundan\WDDN\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\Vrundan\WDDN\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+D:\Vrundan\WDDN\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\Microsoft.Threading.Tasks.Extensions.dll
+D:\Vrundan\WDDN\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\Microsoft.Threading.Tasks.dll
+D:\Vrundan\WDDN\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\Vrundan\WDDN\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\Vrundan\WDDN\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Vrundan\WDDN\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\Vrundan\WDDN\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Vrundan\WDDN\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Vrundan\WDDN\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Vrundan\WDDN\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Vrundan\WDDN\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Vrundan\WDDN\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Vrundan\WDDN\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Vrundan\WDDN\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Vrundan\WDDN\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Vrundan\WDDN\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Vrundan\WDDN\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Vrundan\WDDN\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Vrundan\WDDN\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+D:\Vrundan\WDDN\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+D:\Vrundan\WDDN\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Vrundan\WDDN\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Vrundan\WDDN\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Vrundan\WDDN\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Vrundan\WDDN\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Vrundan\WDDN\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Vrundan\WDDN\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Vrundan\WDDN\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Vrundan\WDDN\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Vrundan\WDDN\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Vrundan\WDDN\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Vrundan\WDDN\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Vrundan\WDDN\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Vrundan\WDDN\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\Vrundan\WDDN\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Vrundan\WDDN\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Vrundan\WDDN\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Vrundan\WDDN\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Vrundan\WDDN\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Vrundan\WDDN\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\Vrundan\WDDN\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Vrundan\WDDN\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\Vrundan\WDDN\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\Vrundan\WDDN\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\Vrundan\WDDN\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\Vrundan\WDDN\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\Vrundan\WDDN\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\Vrundan\WDDN\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Vrundan\WDDN\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Vrundan\WDDN\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Vrundan\WDDN\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Vrundan\WDDN\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Vrundan\WDDN\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Vrundan\WDDN\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\Vrundan\WDDN\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\Vrundan\WDDN\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Vrundan\WDDN\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\Vrundan\WDDN\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Vrundan\WDDN\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Vrundan\WDDN\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Vrundan\WDDN\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Vrundan\WDDN\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Vrundan\WDDN\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Vrundan\WDDN\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Vrundan\WDDN\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Vrundan\WDDN\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Vrundan\WDDN\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Vrundan\WDDN\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Vrundan\WDDN\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Vrundan\WDDN\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Vrundan\WDDN\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Vrundan\WDDN\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Vrundan\WDDN\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Vrundan\WDDN\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Vrundan\WDDN\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Vrundan\WDDN\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Vrundan\WDDN\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Vrundan\WDDN\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Vrundan\WDDN\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Vrundan\WDDN\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Vrundan\WDDN\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Vrundan\WDDN\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Vrundan\WDDN\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Vrundan\WDDN\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Vrundan\WDDN\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Vrundan\WDDN\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Vrundan\WDDN\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Vrundan\WDDN\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Vrundan\WDDN\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Vrundan\WDDN\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Vrundan\WDDN\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Vrundan\WDDN\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Vrundan\WDDN\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Vrundan\WDDN\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Vrundan\WDDN\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Vrundan\WDDN\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Vrundan\WDDN\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Vrundan\WDDN\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Vrundan\WDDN\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Vrundan\WDDN\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Vrundan\WDDN\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Vrundan\WDDN\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Vrundan\WDDN\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Vrundan\WDDN\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Vrundan\WDDN\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Vrundan\WDDN\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Vrundan\WDDN\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Vrundan\WDDN\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Vrundan\WDDN\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Vrundan\WDDN\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Vrundan\WDDN\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Vrundan\WDDN\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Vrundan\WDDN\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Vrundan\WDDN\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Vrundan\WDDN\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Vrundan\WDDN\DiscussionForumCore\DiscussionForumCore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Vrundan\WDDN\DiscussionForumCore\DiscussionForumCore\obj\Debug\netcoreapp3.1\DiscussionForumCore.csproj.AssemblyReference.cache
+D:\Vrundan\WDDN\DiscussionForumCore\DiscussionForumCore\obj\Debug\netcoreapp3.1\DiscussionForumCore.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vrundan\WDDN\DiscussionForumCore\DiscussionForumCore\obj\Debug\netcoreapp3.1\DiscussionForumCore.AssemblyInfoInputs.cache
+D:\Vrundan\WDDN\DiscussionForumCore\DiscussionForumCore\obj\Debug\netcoreapp3.1\DiscussionForumCore.AssemblyInfo.cs
+D:\Vrundan\WDDN\DiscussionForumCore\DiscussionForumCore\obj\Debug\netcoreapp3.1\DiscussionForumCore.csproj.CoreCompileInputs.cache
+D:\Vrundan\WDDN\DiscussionForumCore\DiscussionForumCore\obj\Debug\netcoreapp3.1\DiscussionForumCore.MvcApplicationPartsAssemblyInfo.cache
+D:\Vrundan\WDDN\DiscussionForumCore\DiscussionForumCore\obj\Debug\netcoreapp3.1\DiscussionForumCore.RazorAssemblyInfo.cache
+D:\Vrundan\WDDN\DiscussionForumCore\DiscussionForumCore\obj\Debug\netcoreapp3.1\DiscussionForumCore.RazorAssemblyInfo.cs
+D:\Vrundan\WDDN\DiscussionForumCore\DiscussionForumCore\obj\Debug\netcoreapp3.1\staticwebassets\DiscussionForumCore.StaticWebAssets.Manifest.cache
+D:\Vrundan\WDDN\DiscussionForumCore\DiscussionForumCore\obj\Debug\netcoreapp3.1\staticwebassets\DiscussionForumCore.StaticWebAssets.xml
+D:\Vrundan\WDDN\DiscussionForumCore\DiscussionForumCore\obj\Debug\netcoreapp3.1\scopedcss\bundle\DiscussionForumCore.styles.css
+D:\Vrundan\WDDN\DiscussionForumCore\DiscussionForumCore\obj\Debug\netcoreapp3.1\DiscussionForumCore.TagHelpers.input.cache
+D:\Vrundan\WDDN\DiscussionForumCore\DiscussionForumCore\obj\Debug\netcoreapp3.1\DiscussionForumCore.TagHelpers.output.cache
+D:\Vrundan\WDDN\DiscussionForumCore\DiscussionForumCore\obj\Debug\netcoreapp3.1\DiscussionForumCore.RazorCoreGenerate.cache
+D:\Vrundan\WDDN\DiscussionForumCore\DiscussionForumCore\obj\Debug\netcoreapp3.1\Razor\Views\Account\AllAnswers.cshtml.g.cs
+D:\Vrundan\WDDN\DiscussionForumCore\DiscussionForumCore\obj\Debug\netcoreapp3.1\Razor\Views\Account\AllQuestions.cshtml.g.cs
+D:\Vrundan\WDDN\DiscussionForumCore\DiscussionForumCore\obj\Debug\netcoreapp3.1\Razor\Views\Account\Edit.cshtml.g.cs
+D:\Vrundan\WDDN\DiscussionForumCore\DiscussionForumCore\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+D:\Vrundan\WDDN\DiscussionForumCore\DiscussionForumCore\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+D:\Vrundan\WDDN\DiscussionForumCore\DiscussionForumCore\obj\Debug\netcoreapp3.1\Razor\Views\Account\ViewQuestions.cshtml.g.cs
+D:\Vrundan\WDDN\DiscussionForumCore\DiscussionForumCore\obj\Debug\netcoreapp3.1\Razor\Views\Account\_Layout.cshtml.g.cs
+D:\Vrundan\WDDN\DiscussionForumCore\DiscussionForumCore\obj\Debug\netcoreapp3.1\Razor\Views\Answer\Create.cshtml.g.cs
+D:\Vrundan\WDDN\DiscussionForumCore\DiscussionForumCore\obj\Debug\netcoreapp3.1\Razor\Views\Answer\Delete.cshtml.g.cs
+D:\Vrundan\WDDN\DiscussionForumCore\DiscussionForumCore\obj\Debug\netcoreapp3.1\Razor\Views\Answer\Details.cshtml.g.cs
+D:\Vrundan\WDDN\DiscussionForumCore\DiscussionForumCore\obj\Debug\netcoreapp3.1\Razor\Views\Answer\Edit.cshtml.g.cs
+D:\Vrundan\WDDN\DiscussionForumCore\DiscussionForumCore\obj\Debug\netcoreapp3.1\Razor\Views\Answer\Index.cshtml.g.cs
+D:\Vrundan\WDDN\DiscussionForumCore\DiscussionForumCore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Vrundan\WDDN\DiscussionForumCore\DiscussionForumCore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Vrundan\WDDN\DiscussionForumCore\DiscussionForumCore\obj\Debug\netcoreapp3.1\Razor\Views\Question\Create.cshtml.g.cs
+D:\Vrundan\WDDN\DiscussionForumCore\DiscussionForumCore\obj\Debug\netcoreapp3.1\Razor\Views\Question\Delete.cshtml.g.cs
+D:\Vrundan\WDDN\DiscussionForumCore\DiscussionForumCore\obj\Debug\netcoreapp3.1\Razor\Views\Question\Details.cshtml.g.cs
+D:\Vrundan\WDDN\DiscussionForumCore\DiscussionForumCore\obj\Debug\netcoreapp3.1\Razor\Views\Question\Index.cshtml.g.cs
+D:\Vrundan\WDDN\DiscussionForumCore\DiscussionForumCore\obj\Debug\netcoreapp3.1\Razor\Views\Question\Search.cshtml.g.cs
+D:\Vrundan\WDDN\DiscussionForumCore\DiscussionForumCore\obj\Debug\netcoreapp3.1\Razor\Views\Question\ViewAnswer.cshtml.g.cs
+D:\Vrundan\WDDN\DiscussionForumCore\DiscussionForumCore\obj\Debug\netcoreapp3.1\Razor\Views\SavedPost\SavedPost.cshtml.g.cs
+D:\Vrundan\WDDN\DiscussionForumCore\DiscussionForumCore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Vrundan\WDDN\DiscussionForumCore\DiscussionForumCore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Vrundan\WDDN\DiscussionForumCore\DiscussionForumCore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Vrundan\WDDN\DiscussionForumCore\DiscussionForumCore\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Vrundan\WDDN\DiscussionForumCore\DiscussionForumCore\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Vrundan\WDDN\DiscussionForumCore\DiscussionForumCore\obj\Debug\netcoreapp3.1\DiscussionForumCore.RazorTargetAssemblyInfo.cache
+D:\Vrundan\WDDN\DiscussionForumCore\DiscussionForumCore\obj\Debug\netcoreapp3.1\DiscussionForumCore.RazorTargetAssemblyInfo.cs
+D:\Vrundan\WDDN\DiscussionForumCore\DiscussionForumCore\obj\Debug\netcoreapp3.1\DiscussionForumCore.Views.pdb
+D:\Vrundan\WDDN\DiscussionForumCore\DiscussionForumCore\obj\Debug\netcoreapp3.1\DiscussionForumCore.dll
+D:\Vrundan\WDDN\DiscussionForumCore\DiscussionForumCore\obj\Debug\netcoreapp3.1\DiscussionForumCore.pdb
+D:\Vrundan\WDDN\DiscussionForumCore\DiscussionForumCore\obj\Debug\netcoreapp3.1\DiscussionForumCore.genruntimeconfig.cache
+D:\Vrundan\WDDN\DiscussionForumCore\DiscussionForumCore\obj\Debug\netcoreapp3.1\DiscussionForumCore.csproj.CopyComplete
+D:\Vrundan\WDDN\DiscussionForumCore\DiscussionForumCore\obj\Debug\netcoreapp3.1\Razor\Views\SavedPost\_Layout.cshtml.g.cs
+D:\Vrundan\WDDN\DiscussionForumCore\DiscussionForumCore\obj\Debug\netcoreapp3.1\Razor\Views\Question\Edit.cshtml.g.cs
+C:\Users\Jeel Faldu\Downloads\WDDN_DotNetCore_Project_CE021_CE140-master\WDDN_DotNetCore_Project_CE021_CE140\DiscussionForumCore\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Jeel Faldu\Downloads\WDDN_DotNetCore_Project_CE021_CE140-master\WDDN_DotNetCore_Project_CE021_CE140\DiscussionForumCore\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Jeel Faldu\Downloads\WDDN_DotNetCore_Project_CE021_CE140-master\WDDN_DotNetCore_Project_CE021_CE140\DiscussionForumCore\bin\Debug\netcoreapp3.1\libman.json
+C:\Users\Jeel Faldu\Downloads\WDDN_DotNetCore_Project_CE021_CE140-master\WDDN_DotNetCore_Project_CE021_CE140\DiscussionForumCore\bin\Debug\netcoreapp3.1\DiscussionForumCore.StaticWebAssets.xml
+C:\Users\Jeel Faldu\Downloads\WDDN_DotNetCore_Project_CE021_CE140-master\WDDN_DotNetCore_Project_CE021_CE140\DiscussionForumCore\bin\Debug\netcoreapp3.1\DiscussionForumCore.exe
+C:\Users\Jeel Faldu\Downloads\WDDN_DotNetCore_Project_CE021_CE140-master\WDDN_DotNetCore_Project_CE021_CE140\DiscussionForumCore\bin\Debug\netcoreapp3.1\DiscussionForumCore.deps.json
+C:\Users\Jeel Faldu\Downloads\WDDN_DotNetCore_Project_CE021_CE140-master\WDDN_DotNetCore_Project_CE021_CE140\DiscussionForumCore\bin\Debug\netcoreapp3.1\DiscussionForumCore.runtimeconfig.json
+C:\Users\Jeel Faldu\Downloads\WDDN_DotNetCore_Project_CE021_CE140-master\WDDN_DotNetCore_Project_CE021_CE140\DiscussionForumCore\bin\Debug\netcoreapp3.1\DiscussionForumCore.runtimeconfig.dev.json
+C:\Users\Jeel Faldu\Downloads\WDDN_DotNetCore_Project_CE021_CE140-master\WDDN_DotNetCore_Project_CE021_CE140\DiscussionForumCore\bin\Debug\netcoreapp3.1\DiscussionForumCore.dll
+C:\Users\Jeel Faldu\Downloads\WDDN_DotNetCore_Project_CE021_CE140-master\WDDN_DotNetCore_Project_CE021_CE140\DiscussionForumCore\bin\Debug\netcoreapp3.1\DiscussionForumCore.pdb
+C:\Users\Jeel Faldu\Downloads\WDDN_DotNetCore_Project_CE021_CE140-master\WDDN_DotNetCore_Project_CE021_CE140\DiscussionForumCore\bin\Debug\netcoreapp3.1\DiscussionForumCore.Views.dll
+C:\Users\Jeel Faldu\Downloads\WDDN_DotNetCore_Project_CE021_CE140-master\WDDN_DotNetCore_Project_CE021_CE140\DiscussionForumCore\bin\Debug\netcoreapp3.1\DiscussionForumCore.Views.pdb
+C:\Users\Jeel Faldu\Downloads\WDDN_DotNetCore_Project_CE021_CE140-master\WDDN_DotNetCore_Project_CE021_CE140\DiscussionForumCore\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\Jeel Faldu\Downloads\WDDN_DotNetCore_Project_CE021_CE140-master\WDDN_DotNetCore_Project_CE021_CE140\DiscussionForumCore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Jeel Faldu\Downloads\WDDN_DotNetCore_Project_CE021_CE140-master\WDDN_DotNetCore_Project_CE021_CE140\DiscussionForumCore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Jeel Faldu\Downloads\WDDN_DotNetCore_Project_CE021_CE140-master\WDDN_DotNetCore_Project_CE021_CE140\DiscussionForumCore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Jeel Faldu\Downloads\WDDN_DotNetCore_Project_CE021_CE140-master\WDDN_DotNetCore_Project_CE021_CE140\DiscussionForumCore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Jeel Faldu\Downloads\WDDN_DotNetCore_Project_CE021_CE140-master\WDDN_DotNetCore_Project_CE021_CE140\DiscussionForumCore\bin\Debug\netcoreapp3.1\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\Jeel Faldu\Downloads\WDDN_DotNetCore_Project_CE021_CE140-master\WDDN_DotNetCore_Project_CE021_CE140\DiscussionForumCore\bin\Debug\netcoreapp3.1\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\Jeel Faldu\Downloads\WDDN_DotNetCore_Project_CE021_CE140-master\WDDN_DotNetCore_Project_CE021_CE140\DiscussionForumCore\bin\Debug\netcoreapp3.1\Microsoft.Threading.Tasks.dll
+C:\Users\Jeel Faldu\Downloads\WDDN_DotNetCore_Project_CE021_CE140-master\WDDN_DotNetCore_Project_CE021_CE140\DiscussionForumCore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Jeel Faldu\Downloads\WDDN_DotNetCore_Project_CE021_CE140-master\WDDN_DotNetCore_Project_CE021_CE140\DiscussionForumCore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Jeel Faldu\Downloads\WDDN_DotNetCore_Project_CE021_CE140-master\WDDN_DotNetCore_Project_CE021_CE140\DiscussionForumCore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Jeel Faldu\Downloads\WDDN_DotNetCore_Project_CE021_CE140-master\WDDN_DotNetCore_Project_CE021_CE140\DiscussionForumCore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Jeel Faldu\Downloads\WDDN_DotNetCore_Project_CE021_CE140-master\WDDN_DotNetCore_Project_CE021_CE140\DiscussionForumCore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Jeel Faldu\Downloads\WDDN_DotNetCore_Project_CE021_CE140-master\WDDN_DotNetCore_Project_CE021_CE140\DiscussionForumCore\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Jeel Faldu\Downloads\WDDN_DotNetCore_Project_CE021_CE140-master\WDDN_DotNetCore_Project_CE021_CE140\DiscussionForumCore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Jeel Faldu\Downloads\WDDN_DotNetCore_Project_CE021_CE140-master\WDDN_DotNetCore_Project_CE021_CE140\DiscussionForumCore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Jeel Faldu\Downloads\WDDN_DotNetCore_Project_CE021_CE140-master\WDDN_DotNetCore_Project_CE021_CE140\DiscussionForumCore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Jeel Faldu\Downloads\WDDN_DotNetCore_Project_CE021_CE140-master\WDDN_DotNetCore_Project_CE021_CE140\DiscussionForumCore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Jeel Faldu\Downloads\WDDN_DotNetCore_Project_CE021_CE140-master\WDDN_DotNetCore_Project_CE021_CE140\DiscussionForumCore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Jeel Faldu\Downloads\WDDN_DotNetCore_Project_CE021_CE140-master\WDDN_DotNetCore_Project_CE021_CE140\DiscussionForumCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Jeel Faldu\Downloads\WDDN_DotNetCore_Project_CE021_CE140-master\WDDN_DotNetCore_Project_CE021_CE140\DiscussionForumCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Jeel Faldu\Downloads\WDDN_DotNetCore_Project_CE021_CE140-master\WDDN_DotNetCore_Project_CE021_CE140\DiscussionForumCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Jeel Faldu\Downloads\WDDN_DotNetCore_Project_CE021_CE140-master\WDDN_DotNetCore_Project_CE021_CE140\DiscussionForumCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Jeel Faldu\Downloads\WDDN_DotNetCore_Project_CE021_CE140-master\WDDN_DotNetCore_Project_CE021_CE140\DiscussionForumCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Jeel Faldu\Downloads\WDDN_DotNetCore_Project_CE021_CE140-master\WDDN_DotNetCore_Project_CE021_CE140\DiscussionForumCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Jeel Faldu\Downloads\WDDN_DotNetCore_Project_CE021_CE140-master\WDDN_DotNetCore_Project_CE021_CE140\DiscussionForumCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Jeel Faldu\Downloads\WDDN_DotNetCore_Project_CE021_CE140-master\WDDN_DotNetCore_Project_CE021_CE140\DiscussionForumCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Jeel Faldu\Downloads\WDDN_DotNetCore_Project_CE021_CE140-master\WDDN_DotNetCore_Project_CE021_CE140\DiscussionForumCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Jeel Faldu\Downloads\WDDN_DotNetCore_Project_CE021_CE140-master\WDDN_DotNetCore_Project_CE021_CE140\DiscussionForumCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Jeel Faldu\Downloads\WDDN_DotNetCore_Project_CE021_CE140-master\WDDN_DotNetCore_Project_CE021_CE140\DiscussionForumCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Jeel Faldu\Downloads\WDDN_DotNetCore_Project_CE021_CE140-master\WDDN_DotNetCore_Project_CE021_CE140\DiscussionForumCore\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Jeel Faldu\Downloads\WDDN_DotNetCore_Project_CE021_CE140-master\WDDN_DotNetCore_Project_CE021_CE140\DiscussionForumCore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Jeel Faldu\Downloads\WDDN_DotNetCore_Project_CE021_CE140-master\WDDN_DotNetCore_Project_CE021_CE140\DiscussionForumCore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Jeel Faldu\Downloads\WDDN_DotNetCore_Project_CE021_CE140-master\WDDN_DotNetCore_Project_CE021_CE140\DiscussionForumCore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Jeel Faldu\Downloads\WDDN_DotNetCore_Project_CE021_CE140-master\WDDN_DotNetCore_Project_CE021_CE140\DiscussionForumCore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Jeel Faldu\Downloads\WDDN_DotNetCore_Project_CE021_CE140-master\WDDN_DotNetCore_Project_CE021_CE140\DiscussionForumCore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Jeel Faldu\Downloads\WDDN_DotNetCore_Project_CE021_CE140-master\WDDN_DotNetCore_Project_CE021_CE140\DiscussionForumCore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Jeel Faldu\Downloads\WDDN_DotNetCore_Project_CE021_CE140-master\WDDN_DotNetCore_Project_CE021_CE140\DiscussionForumCore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Jeel Faldu\Downloads\WDDN_DotNetCore_Project_CE021_CE140-master\WDDN_DotNetCore_Project_CE021_CE140\DiscussionForumCore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Jeel Faldu\Downloads\WDDN_DotNetCore_Project_CE021_CE140-master\WDDN_DotNetCore_Project_CE021_CE140\DiscussionForumCore\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Jeel Faldu\Downloads\WDDN_DotNetCore_Project_CE021_CE140-master\WDDN_DotNetCore_Project_CE021_CE140\DiscussionForumCore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Jeel Faldu\Downloads\WDDN_DotNetCore_Project_CE021_CE140-master\WDDN_DotNetCore_Project_CE021_CE140\DiscussionForumCore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Jeel Faldu\Downloads\WDDN_DotNetCore_Project_CE021_CE140-master\WDDN_DotNetCore_Project_CE021_CE140\DiscussionForumCore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Jeel Faldu\Downloads\WDDN_DotNetCore_Project_CE021_CE140-master\WDDN_DotNetCore_Project_CE021_CE140\DiscussionForumCore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Jeel Faldu\Downloads\WDDN_DotNetCore_Project_CE021_CE140-master\WDDN_DotNetCore_Project_CE021_CE140\DiscussionForumCore\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Jeel Faldu\Downloads\WDDN_DotNetCore_Project_CE021_CE140-master\WDDN_DotNetCore_Project_CE021_CE140\DiscussionForumCore\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Jeel Faldu\Downloads\WDDN_DotNetCore_Project_CE021_CE140-master\WDDN_DotNetCore_Project_CE021_CE140\DiscussionForumCore\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Jeel Faldu\Downloads\WDDN_DotNetCore_Project_CE021_CE140-master\WDDN_DotNetCore_Project_CE021_CE140\DiscussionForumCore\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Jeel Faldu\Downloads\WDDN_DotNetCore_Project_CE021_CE140-master\WDDN_DotNetCore_Project_CE021_CE140\DiscussionForumCore\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Jeel Faldu\Downloads\WDDN_DotNetCore_Project_CE021_CE140-master\WDDN_DotNetCore_Project_CE021_CE140\DiscussionForumCore\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Jeel Faldu\Downloads\WDDN_DotNetCore_Project_CE021_CE140-master\WDDN_DotNetCore_Project_CE021_CE140\DiscussionForumCore\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Jeel Faldu\Downloads\WDDN_DotNetCore_Project_CE021_CE140-master\WDDN_DotNetCore_Project_CE021_CE140\DiscussionForumCore\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Jeel Faldu\Downloads\WDDN_DotNetCore_Project_CE021_CE140-master\WDDN_DotNetCore_Project_CE021_CE140\DiscussionForumCore\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Jeel Faldu\Downloads\WDDN_DotNetCore_Project_CE021_CE140-master\WDDN_DotNetCore_Project_CE021_CE140\DiscussionForumCore\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Jeel Faldu\Downloads\WDDN_DotNetCore_Project_CE021_CE140-master\WDDN_DotNetCore_Project_CE021_CE140\DiscussionForumCore\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Jeel Faldu\Downloads\WDDN_DotNetCore_Project_CE021_CE140-master\WDDN_DotNetCore_Project_CE021_CE140\DiscussionForumCore\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Jeel Faldu\Downloads\WDDN_DotNetCore_Project_CE021_CE140-master\WDDN_DotNetCore_Project_CE021_CE140\DiscussionForumCore\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Jeel Faldu\Downloads\WDDN_DotNetCore_Project_CE021_CE140-master\WDDN_DotNetCore_Project_CE021_CE140\DiscussionForumCore\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Jeel Faldu\Downloads\WDDN_DotNetCore_Project_CE021_CE140-master\WDDN_DotNetCore_Project_CE021_CE140\DiscussionForumCore\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jeel Faldu\Downloads\WDDN_DotNetCore_Project_CE021_CE140-master\WDDN_DotNetCore_Project_CE021_CE140\DiscussionForumCore\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jeel Faldu\Downloads\WDDN_DotNetCore_Project_CE021_CE140-master\WDDN_DotNetCore_Project_CE021_CE140\DiscussionForumCore\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jeel Faldu\Downloads\WDDN_DotNetCore_Project_CE021_CE140-master\WDDN_DotNetCore_Project_CE021_CE140\DiscussionForumCore\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jeel Faldu\Downloads\WDDN_DotNetCore_Project_CE021_CE140-master\WDDN_DotNetCore_Project_CE021_CE140\DiscussionForumCore\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jeel Faldu\Downloads\WDDN_DotNetCore_Project_CE021_CE140-master\WDDN_DotNetCore_Project_CE021_CE140\DiscussionForumCore\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jeel Faldu\Downloads\WDDN_DotNetCore_Project_CE021_CE140-master\WDDN_DotNetCore_Project_CE021_CE140\DiscussionForumCore\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jeel Faldu\Downloads\WDDN_DotNetCore_Project_CE021_CE140-master\WDDN_DotNetCore_Project_CE021_CE140\DiscussionForumCore\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jeel Faldu\Downloads\WDDN_DotNetCore_Project_CE021_CE140-master\WDDN_DotNetCore_Project_CE021_CE140\DiscussionForumCore\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jeel Faldu\Downloads\WDDN_DotNetCore_Project_CE021_CE140-master\WDDN_DotNetCore_Project_CE021_CE140\DiscussionForumCore\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jeel Faldu\Downloads\WDDN_DotNetCore_Project_CE021_CE140-master\WDDN_DotNetCore_Project_CE021_CE140\DiscussionForumCore\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jeel Faldu\Downloads\WDDN_DotNetCore_Project_CE021_CE140-master\WDDN_DotNetCore_Project_CE021_CE140\DiscussionForumCore\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jeel Faldu\Downloads\WDDN_DotNetCore_Project_CE021_CE140-master\WDDN_DotNetCore_Project_CE021_CE140\DiscussionForumCore\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jeel Faldu\Downloads\WDDN_DotNetCore_Project_CE021_CE140-master\WDDN_DotNetCore_Project_CE021_CE140\DiscussionForumCore\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jeel Faldu\Downloads\WDDN_DotNetCore_Project_CE021_CE140-master\WDDN_DotNetCore_Project_CE021_CE140\DiscussionForumCore\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jeel Faldu\Downloads\WDDN_DotNetCore_Project_CE021_CE140-master\WDDN_DotNetCore_Project_CE021_CE140\DiscussionForumCore\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jeel Faldu\Downloads\WDDN_DotNetCore_Project_CE021_CE140-master\WDDN_DotNetCore_Project_CE021_CE140\DiscussionForumCore\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jeel Faldu\Downloads\WDDN_DotNetCore_Project_CE021_CE140-master\WDDN_DotNetCore_Project_CE021_CE140\DiscussionForumCore\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jeel Faldu\Downloads\WDDN_DotNetCore_Project_CE021_CE140-master\WDDN_DotNetCore_Project_CE021_CE140\DiscussionForumCore\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jeel Faldu\Downloads\WDDN_DotNetCore_Project_CE021_CE140-master\WDDN_DotNetCore_Project_CE021_CE140\DiscussionForumCore\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jeel Faldu\Downloads\WDDN_DotNetCore_Project_CE021_CE140-master\WDDN_DotNetCore_Project_CE021_CE140\DiscussionForumCore\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jeel Faldu\Downloads\WDDN_DotNetCore_Project_CE021_CE140-master\WDDN_DotNetCore_Project_CE021_CE140\DiscussionForumCore\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jeel Faldu\Downloads\WDDN_DotNetCore_Project_CE021_CE140-master\WDDN_DotNetCore_Project_CE021_CE140\DiscussionForumCore\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jeel Faldu\Downloads\WDDN_DotNetCore_Project_CE021_CE140-master\WDDN_DotNetCore_Project_CE021_CE140\DiscussionForumCore\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jeel Faldu\Downloads\WDDN_DotNetCore_Project_CE021_CE140-master\WDDN_DotNetCore_Project_CE021_CE140\DiscussionForumCore\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jeel Faldu\Downloads\WDDN_DotNetCore_Project_CE021_CE140-master\WDDN_DotNetCore_Project_CE021_CE140\DiscussionForumCore\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jeel Faldu\Downloads\WDDN_DotNetCore_Project_CE021_CE140-master\WDDN_DotNetCore_Project_CE021_CE140\DiscussionForumCore\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jeel Faldu\Downloads\WDDN_DotNetCore_Project_CE021_CE140-master\WDDN_DotNetCore_Project_CE021_CE140\DiscussionForumCore\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jeel Faldu\Downloads\WDDN_DotNetCore_Project_CE021_CE140-master\WDDN_DotNetCore_Project_CE021_CE140\DiscussionForumCore\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jeel Faldu\Downloads\WDDN_DotNetCore_Project_CE021_CE140-master\WDDN_DotNetCore_Project_CE021_CE140\DiscussionForumCore\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jeel Faldu\Downloads\WDDN_DotNetCore_Project_CE021_CE140-master\WDDN_DotNetCore_Project_CE021_CE140\DiscussionForumCore\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jeel Faldu\Downloads\WDDN_DotNetCore_Project_CE021_CE140-master\WDDN_DotNetCore_Project_CE021_CE140\DiscussionForumCore\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jeel Faldu\Downloads\WDDN_DotNetCore_Project_CE021_CE140-master\WDDN_DotNetCore_Project_CE021_CE140\DiscussionForumCore\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jeel Faldu\Downloads\WDDN_DotNetCore_Project_CE021_CE140-master\WDDN_DotNetCore_Project_CE021_CE140\DiscussionForumCore\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jeel Faldu\Downloads\WDDN_DotNetCore_Project_CE021_CE140-master\WDDN_DotNetCore_Project_CE021_CE140\DiscussionForumCore\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jeel Faldu\Downloads\WDDN_DotNetCore_Project_CE021_CE140-master\WDDN_DotNetCore_Project_CE021_CE140\DiscussionForumCore\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jeel Faldu\Downloads\WDDN_DotNetCore_Project_CE021_CE140-master\WDDN_DotNetCore_Project_CE021_CE140\DiscussionForumCore\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jeel Faldu\Downloads\WDDN_DotNetCore_Project_CE021_CE140-master\WDDN_DotNetCore_Project_CE021_CE140\DiscussionForumCore\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jeel Faldu\Downloads\WDDN_DotNetCore_Project_CE021_CE140-master\WDDN_DotNetCore_Project_CE021_CE140\DiscussionForumCore\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jeel Faldu\Downloads\WDDN_DotNetCore_Project_CE021_CE140-master\WDDN_DotNetCore_Project_CE021_CE140\DiscussionForumCore\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jeel Faldu\Downloads\WDDN_DotNetCore_Project_CE021_CE140-master\WDDN_DotNetCore_Project_CE021_CE140\DiscussionForumCore\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jeel Faldu\Downloads\WDDN_DotNetCore_Project_CE021_CE140-master\WDDN_DotNetCore_Project_CE021_CE140\DiscussionForumCore\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jeel Faldu\Downloads\WDDN_DotNetCore_Project_CE021_CE140-master\WDDN_DotNetCore_Project_CE021_CE140\DiscussionForumCore\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jeel Faldu\Downloads\WDDN_DotNetCore_Project_CE021_CE140-master\WDDN_DotNetCore_Project_CE021_CE140\DiscussionForumCore\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jeel Faldu\Downloads\WDDN_DotNetCore_Project_CE021_CE140-master\WDDN_DotNetCore_Project_CE021_CE140\DiscussionForumCore\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jeel Faldu\Downloads\WDDN_DotNetCore_Project_CE021_CE140-master\WDDN_DotNetCore_Project_CE021_CE140\DiscussionForumCore\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jeel Faldu\Downloads\WDDN_DotNetCore_Project_CE021_CE140-master\WDDN_DotNetCore_Project_CE021_CE140\DiscussionForumCore\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jeel Faldu\Downloads\WDDN_DotNetCore_Project_CE021_CE140-master\WDDN_DotNetCore_Project_CE021_CE140\DiscussionForumCore\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jeel Faldu\Downloads\WDDN_DotNetCore_Project_CE021_CE140-master\WDDN_DotNetCore_Project_CE021_CE140\DiscussionForumCore\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jeel Faldu\Downloads\WDDN_DotNetCore_Project_CE021_CE140-master\WDDN_DotNetCore_Project_CE021_CE140\DiscussionForumCore\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jeel Faldu\Downloads\WDDN_DotNetCore_Project_CE021_CE140-master\WDDN_DotNetCore_Project_CE021_CE140\DiscussionForumCore\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jeel Faldu\Downloads\WDDN_DotNetCore_Project_CE021_CE140-master\WDDN_DotNetCore_Project_CE021_CE140\DiscussionForumCore\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jeel Faldu\Downloads\WDDN_DotNetCore_Project_CE021_CE140-master\WDDN_DotNetCore_Project_CE021_CE140\DiscussionForumCore\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Jeel Faldu\Downloads\WDDN_DotNetCore_Project_CE021_CE140-master\WDDN_DotNetCore_Project_CE021_CE140\DiscussionForumCore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Jeel Faldu\Downloads\WDDN_DotNetCore_Project_CE021_CE140-master\WDDN_DotNetCore_Project_CE021_CE140\DiscussionForumCore\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Jeel Faldu\Downloads\WDDN_DotNetCore_Project_CE021_CE140-master\WDDN_DotNetCore_Project_CE021_CE140\DiscussionForumCore\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Jeel Faldu\Downloads\WDDN_DotNetCore_Project_CE021_CE140-master\WDDN_DotNetCore_Project_CE021_CE140\DiscussionForumCore\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Jeel Faldu\Downloads\WDDN_DotNetCore_Project_CE021_CE140-master\WDDN_DotNetCore_Project_CE021_CE140\DiscussionForumCore\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Jeel Faldu\Downloads\WDDN_DotNetCore_Project_CE021_CE140-master\WDDN_DotNetCore_Project_CE021_CE140\DiscussionForumCore\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Jeel Faldu\Downloads\WDDN_DotNetCore_Project_CE021_CE140-master\WDDN_DotNetCore_Project_CE021_CE140\DiscussionForumCore\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Jeel Faldu\Downloads\WDDN_DotNetCore_Project_CE021_CE140-master\WDDN_DotNetCore_Project_CE021_CE140\DiscussionForumCore\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Jeel Faldu\Downloads\WDDN_DotNetCore_Project_CE021_CE140-master\WDDN_DotNetCore_Project_CE021_CE140\DiscussionForumCore\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Jeel Faldu\Downloads\WDDN_DotNetCore_Project_CE021_CE140-master\WDDN_DotNetCore_Project_CE021_CE140\DiscussionForumCore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Jeel Faldu\Downloads\WDDN_DotNetCore_Project_CE021_CE140-master\WDDN_DotNetCore_Project_CE021_CE140\DiscussionForumCore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Jeel Faldu\Downloads\WDDN_DotNetCore_Project_CE021_CE140-master\WDDN_DotNetCore_Project_CE021_CE140\DiscussionForumCore\obj\Debug\netcoreapp3.1\DiscussionForumCore.csproj.AssemblyReference.cache
+C:\Users\Jeel Faldu\Downloads\WDDN_DotNetCore_Project_CE021_CE140-master\WDDN_DotNetCore_Project_CE021_CE140\DiscussionForumCore\obj\Debug\netcoreapp3.1\DiscussionForumCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jeel Faldu\Downloads\WDDN_DotNetCore_Project_CE021_CE140-master\WDDN_DotNetCore_Project_CE021_CE140\DiscussionForumCore\obj\Debug\netcoreapp3.1\DiscussionForumCore.AssemblyInfoInputs.cache
+C:\Users\Jeel Faldu\Downloads\WDDN_DotNetCore_Project_CE021_CE140-master\WDDN_DotNetCore_Project_CE021_CE140\DiscussionForumCore\obj\Debug\netcoreapp3.1\DiscussionForumCore.AssemblyInfo.cs
+C:\Users\Jeel Faldu\Downloads\WDDN_DotNetCore_Project_CE021_CE140-master\WDDN_DotNetCore_Project_CE021_CE140\DiscussionForumCore\obj\Debug\netcoreapp3.1\DiscussionForumCore.csproj.CoreCompileInputs.cache
+C:\Users\Jeel Faldu\Downloads\WDDN_DotNetCore_Project_CE021_CE140-master\WDDN_DotNetCore_Project_CE021_CE140\DiscussionForumCore\obj\Debug\netcoreapp3.1\DiscussionForumCore.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Jeel Faldu\Downloads\WDDN_DotNetCore_Project_CE021_CE140-master\WDDN_DotNetCore_Project_CE021_CE140\DiscussionForumCore\obj\Debug\netcoreapp3.1\DiscussionForumCore.RazorAssemblyInfo.cache
+C:\Users\Jeel Faldu\Downloads\WDDN_DotNetCore_Project_CE021_CE140-master\WDDN_DotNetCore_Project_CE021_CE140\DiscussionForumCore\obj\Debug\netcoreapp3.1\DiscussionForumCore.RazorAssemblyInfo.cs
+C:\Users\Jeel Faldu\Downloads\WDDN_DotNetCore_Project_CE021_CE140-master\WDDN_DotNetCore_Project_CE021_CE140\DiscussionForumCore\obj\Debug\netcoreapp3.1\staticwebassets\DiscussionForumCore.StaticWebAssets.Manifest.cache
+C:\Users\Jeel Faldu\Downloads\WDDN_DotNetCore_Project_CE021_CE140-master\WDDN_DotNetCore_Project_CE021_CE140\DiscussionForumCore\obj\Debug\netcoreapp3.1\staticwebassets\DiscussionForumCore.StaticWebAssets.Pack.cache
+C:\Users\Jeel Faldu\Downloads\WDDN_DotNetCore_Project_CE021_CE140-master\WDDN_DotNetCore_Project_CE021_CE140\DiscussionForumCore\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.DiscussionForumCore.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Jeel Faldu\Downloads\WDDN_DotNetCore_Project_CE021_CE140-master\WDDN_DotNetCore_Project_CE021_CE140\DiscussionForumCore\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.DiscussionForumCore.props
+C:\Users\Jeel Faldu\Downloads\WDDN_DotNetCore_Project_CE021_CE140-master\WDDN_DotNetCore_Project_CE021_CE140\DiscussionForumCore\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.DiscussionForumCore.props
+C:\Users\Jeel Faldu\Downloads\WDDN_DotNetCore_Project_CE021_CE140-master\WDDN_DotNetCore_Project_CE021_CE140\DiscussionForumCore\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.DiscussionForumCore.props
+C:\Users\Jeel Faldu\Downloads\WDDN_DotNetCore_Project_CE021_CE140-master\WDDN_DotNetCore_Project_CE021_CE140\DiscussionForumCore\obj\Debug\netcoreapp3.1\DiscussionForumCore.TagHelpers.input.cache
+C:\Users\Jeel Faldu\Downloads\WDDN_DotNetCore_Project_CE021_CE140-master\WDDN_DotNetCore_Project_CE021_CE140\DiscussionForumCore\obj\Debug\netcoreapp3.1\DiscussionForumCore.TagHelpers.output.cache
+C:\Users\Jeel Faldu\Downloads\WDDN_DotNetCore_Project_CE021_CE140-master\WDDN_DotNetCore_Project_CE021_CE140\DiscussionForumCore\obj\Debug\netcoreapp3.1\DiscussionForumCore.RazorCoreGenerate.cache
+C:\Users\Jeel Faldu\Downloads\WDDN_DotNetCore_Project_CE021_CE140-master\WDDN_DotNetCore_Project_CE021_CE140\DiscussionForumCore\obj\Debug\netcoreapp3.1\Razor\Views\Account\AllAnswers.cshtml.g.cs
+C:\Users\Jeel Faldu\Downloads\WDDN_DotNetCore_Project_CE021_CE140-master\WDDN_DotNetCore_Project_CE021_CE140\DiscussionForumCore\obj\Debug\netcoreapp3.1\Razor\Views\Account\AllQuestions.cshtml.g.cs
+C:\Users\Jeel Faldu\Downloads\WDDN_DotNetCore_Project_CE021_CE140-master\WDDN_DotNetCore_Project_CE021_CE140\DiscussionForumCore\obj\Debug\netcoreapp3.1\Razor\Views\Account\Edit.cshtml.g.cs
+C:\Users\Jeel Faldu\Downloads\WDDN_DotNetCore_Project_CE021_CE140-master\WDDN_DotNetCore_Project_CE021_CE140\DiscussionForumCore\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\Jeel Faldu\Downloads\WDDN_DotNetCore_Project_CE021_CE140-master\WDDN_DotNetCore_Project_CE021_CE140\DiscussionForumCore\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\Jeel Faldu\Downloads\WDDN_DotNetCore_Project_CE021_CE140-master\WDDN_DotNetCore_Project_CE021_CE140\DiscussionForumCore\obj\Debug\netcoreapp3.1\Razor\Views\Account\ViewQuestions.cshtml.g.cs
+C:\Users\Jeel Faldu\Downloads\WDDN_DotNetCore_Project_CE021_CE140-master\WDDN_DotNetCore_Project_CE021_CE140\DiscussionForumCore\obj\Debug\netcoreapp3.1\Razor\Views\Account\_Layout.cshtml.g.cs
+C:\Users\Jeel Faldu\Downloads\WDDN_DotNetCore_Project_CE021_CE140-master\WDDN_DotNetCore_Project_CE021_CE140\DiscussionForumCore\obj\Debug\netcoreapp3.1\Razor\Views\Answer\Create.cshtml.g.cs
+C:\Users\Jeel Faldu\Downloads\WDDN_DotNetCore_Project_CE021_CE140-master\WDDN_DotNetCore_Project_CE021_CE140\DiscussionForumCore\obj\Debug\netcoreapp3.1\Razor\Views\Answer\Delete.cshtml.g.cs
+C:\Users\Jeel Faldu\Downloads\WDDN_DotNetCore_Project_CE021_CE140-master\WDDN_DotNetCore_Project_CE021_CE140\DiscussionForumCore\obj\Debug\netcoreapp3.1\Razor\Views\Answer\Details.cshtml.g.cs
+C:\Users\Jeel Faldu\Downloads\WDDN_DotNetCore_Project_CE021_CE140-master\WDDN_DotNetCore_Project_CE021_CE140\DiscussionForumCore\obj\Debug\netcoreapp3.1\Razor\Views\Answer\Edit.cshtml.g.cs
+C:\Users\Jeel Faldu\Downloads\WDDN_DotNetCore_Project_CE021_CE140-master\WDDN_DotNetCore_Project_CE021_CE140\DiscussionForumCore\obj\Debug\netcoreapp3.1\Razor\Views\Answer\Index.cshtml.g.cs
+C:\Users\Jeel Faldu\Downloads\WDDN_DotNetCore_Project_CE021_CE140-master\WDDN_DotNetCore_Project_CE021_CE140\DiscussionForumCore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Jeel Faldu\Downloads\WDDN_DotNetCore_Project_CE021_CE140-master\WDDN_DotNetCore_Project_CE021_CE140\DiscussionForumCore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Jeel Faldu\Downloads\WDDN_DotNetCore_Project_CE021_CE140-master\WDDN_DotNetCore_Project_CE021_CE140\DiscussionForumCore\obj\Debug\netcoreapp3.1\Razor\Views\Question\Create.cshtml.g.cs
+C:\Users\Jeel Faldu\Downloads\WDDN_DotNetCore_Project_CE021_CE140-master\WDDN_DotNetCore_Project_CE021_CE140\DiscussionForumCore\obj\Debug\netcoreapp3.1\Razor\Views\Question\Delete.cshtml.g.cs
+C:\Users\Jeel Faldu\Downloads\WDDN_DotNetCore_Project_CE021_CE140-master\WDDN_DotNetCore_Project_CE021_CE140\DiscussionForumCore\obj\Debug\netcoreapp3.1\Razor\Views\Question\Details.cshtml.g.cs
+C:\Users\Jeel Faldu\Downloads\WDDN_DotNetCore_Project_CE021_CE140-master\WDDN_DotNetCore_Project_CE021_CE140\DiscussionForumCore\obj\Debug\netcoreapp3.1\Razor\Views\Question\Edit.cshtml.g.cs
+C:\Users\Jeel Faldu\Downloads\WDDN_DotNetCore_Project_CE021_CE140-master\WDDN_DotNetCore_Project_CE021_CE140\DiscussionForumCore\obj\Debug\netcoreapp3.1\Razor\Views\Question\Index.cshtml.g.cs
+C:\Users\Jeel Faldu\Downloads\WDDN_DotNetCore_Project_CE021_CE140-master\WDDN_DotNetCore_Project_CE021_CE140\DiscussionForumCore\obj\Debug\netcoreapp3.1\Razor\Views\Question\Search.cshtml.g.cs
+C:\Users\Jeel Faldu\Downloads\WDDN_DotNetCore_Project_CE021_CE140-master\WDDN_DotNetCore_Project_CE021_CE140\DiscussionForumCore\obj\Debug\netcoreapp3.1\Razor\Views\Question\ViewAnswer.cshtml.g.cs
+C:\Users\Jeel Faldu\Downloads\WDDN_DotNetCore_Project_CE021_CE140-master\WDDN_DotNetCore_Project_CE021_CE140\DiscussionForumCore\obj\Debug\netcoreapp3.1\Razor\Views\SavedPost\SavedPost.cshtml.g.cs
+C:\Users\Jeel Faldu\Downloads\WDDN_DotNetCore_Project_CE021_CE140-master\WDDN_DotNetCore_Project_CE021_CE140\DiscussionForumCore\obj\Debug\netcoreapp3.1\Razor\Views\SavedPost\_Layout.cshtml.g.cs
+C:\Users\Jeel Faldu\Downloads\WDDN_DotNetCore_Project_CE021_CE140-master\WDDN_DotNetCore_Project_CE021_CE140\DiscussionForumCore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Jeel Faldu\Downloads\WDDN_DotNetCore_Project_CE021_CE140-master\WDDN_DotNetCore_Project_CE021_CE140\DiscussionForumCore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Jeel Faldu\Downloads\WDDN_DotNetCore_Project_CE021_CE140-master\WDDN_DotNetCore_Project_CE021_CE140\DiscussionForumCore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Jeel Faldu\Downloads\WDDN_DotNetCore_Project_CE021_CE140-master\WDDN_DotNetCore_Project_CE021_CE140\DiscussionForumCore\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Jeel Faldu\Downloads\WDDN_DotNetCore_Project_CE021_CE140-master\WDDN_DotNetCore_Project_CE021_CE140\DiscussionForumCore\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Jeel Faldu\Downloads\WDDN_DotNetCore_Project_CE021_CE140-master\WDDN_DotNetCore_Project_CE021_CE140\DiscussionForumCore\obj\Debug\netcoreapp3.1\DiscussionForumCore.RazorTargetAssemblyInfo.cache
+C:\Users\Jeel Faldu\Downloads\WDDN_DotNetCore_Project_CE021_CE140-master\WDDN_DotNetCore_Project_CE021_CE140\DiscussionForumCore\obj\Debug\netcoreapp3.1\DiscussionForumCore.RazorTargetAssemblyInfo.cs
+C:\Users\Jeel Faldu\Downloads\WDDN_DotNetCore_Project_CE021_CE140-master\WDDN_DotNetCore_Project_CE021_CE140\DiscussionForumCore\obj\Debug\netcoreapp3.1\DiscussionForumCore.Views.pdb
+C:\Users\Jeel Faldu\Downloads\WDDN_DotNetCore_Project_CE021_CE140-master\WDDN_DotNetCore_Project_CE021_CE140\DiscussionForumCore\obj\Debug\netcoreapp3.1\DiscussionForumCore.csproj.CopyComplete
+C:\Users\Jeel Faldu\Downloads\WDDN_DotNetCore_Project_CE021_CE140-master\WDDN_DotNetCore_Project_CE021_CE140\DiscussionForumCore\obj\Debug\netcoreapp3.1\DiscussionForumCore.dll
+C:\Users\Jeel Faldu\Downloads\WDDN_DotNetCore_Project_CE021_CE140-master\WDDN_DotNetCore_Project_CE021_CE140\DiscussionForumCore\obj\Debug\netcoreapp3.1\DiscussionForumCore.pdb
+C:\Users\Jeel Faldu\Downloads\WDDN_DotNetCore_Project_CE021_CE140-master\WDDN_DotNetCore_Project_CE021_CE140\DiscussionForumCore\obj\Debug\netcoreapp3.1\DiscussionForumCore.genruntimeconfig.cache

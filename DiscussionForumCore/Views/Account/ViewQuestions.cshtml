@@ -1,0 +1,45 @@
+﻿@model DiscussionForumCore.Models.AppUser;
+
+@{
+    ViewData["Title"] = "Details";
+    var PhotoPath = "~/images/" + Model.ProfilePic;
+}
+
+
+<div class="row  justify-content-center">
+    <h4 style="display:flex;align-items:center;justify-content:center;">
+        User Profile
+        <a class="btn btn-primary" style="margin-left:5%;width:6vw;" asp-action="Edit" asp-controller="Account" asp-route-id="@Model.Id">Edit</a>
+    </h4>
+    <hr />
+
+    <div style="display:flex;">
+        @if (Model.ProfilePic != null)
+        {
+            <div class="card-body text-center">
+                <img style="max-width:100%;max-height:15vw;" src="@PhotoPath" asp-append-version="true" />
+            </div>
+        }
+        else
+        {
+            <div class="card-body text-center">
+                <img style="max-width:100%;max-height:15vw;" src="~/images/Default.jpg" asp-append-version="true" />
+            </div>
+        }
+    </div>
+
+    <div style="display:flex;flex-direction:column;justify-content:center;align-items:center">
+        <h5>Name</h5>
+        @Model.Name<br />
+        <h5>UserName</h5>
+        @Model.UserName<br />
+        <h5>Email</h5>
+        @Model.Email<br />
+        <h5>University</h5>
+        @Model.University<br />
+        <h5>Phone Number</h5>
+        @Model.PhoneNumber<br />
+
+    </div>
+</div>
+

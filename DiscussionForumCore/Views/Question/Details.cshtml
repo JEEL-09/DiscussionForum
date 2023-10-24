@@ -1,0 +1,108 @@
+﻿@using DiscussionForumCore;
+@model dynamic
+@inject SignInManager<AppUser> signInManager;
+@{
+    ViewData["Title"] = "Details";
+    string userId = ViewBag.UserId;
+
+    var PhotoPath = "~/images/" + Model.question1.PhotoPath;
+    Boolean flag = false;
+    var ProfilePicPath1 = "~/images/";
+    var ProfilePicPath2 = "~/images/" + Model.question1.ProfilePic;
+}
+
+<div style="margin-top:1rem">
+    <div class="row justify-content-center m-1">
+        <div class="col-sm-8">
+            <div class="card">
+                <div class="card-header" style="display:flex">
+                    <img alt="loginImg" class="post_img" src="@ProfilePicPath2" asp-append-version="true" />
+                    <div class="post_user">
+                        <h5>@Model.question1.Name</h5>
+                    </div>
+
+                </div>
+                <div class="card-body">
+                    <h4>@Model.question1.question</h4>
+                @if (Model.question1.PhotoPath != null)
+                {
+                    <div class="card-body text-center">
+                        <img style="max-width:100%;max-height:15vw;" src="@PhotoPath" asp-append-version="true" />
+                    </div>
+                }
+            <div class="card-footer text-center">
+                <a asp-action="index" class="btn btn-primary">Back</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                @if (@Model.question1.appUserId == @userId)
+                {
+                    <a asp-action="Edit" asp-route-id="@Model.question1.Id"><i class="bi bi-pencil-square"></i></a>
+                }&nbsp;&nbsp;&nbsp;
+                @if (@Model.question1.appUserId == @userId)
+                {
+                    <a asp-action="Delete" asp-route-id="@Model.question1.Id"> <i class="bi bi-trash-fill"></i></a>
+                }&nbsp;&nbsp;&nbsp;
+                @if (!ViewBag.Check)
+                {
+                    <a asp-action="Save" asp-controller="SavedPost" asp-route-id="@Model.question1.Id"> <i class="bi bi-bookmark"></i> </a>
+                }
+                else
+                {
+                    <a asp-action="Delete" asp-controller="SavedPost" asp-route-id="@Model.question1.Id"> <i class="bi bi-bookmark-fill"></i> </a>
+                }
+
+            </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<h4 style="display:flex; align-items:center; justify-content:center; margin-top:1rem">Answers</h4>
+    <hr />
+@foreach (Answer item in Model.answer)
+{
+    var ProfilePicPath = ProfilePicPath1 + item.ProfilePic; 
+    flag = true;
+    <div class="row justify-content-center" style="margin:5%">
+        <div class="col-sm-8">
+            <div class="card">
+                <div class="card-header" style="display: flex; ">
+                    <img alt="loginImg" class="post_img" src="@ProfilePicPath" asp-append-version="true" />
+                    <div class="post_user">
+                        <h5>@item.Name</h5>
+                    </div>
+                    <div style="margin-left:auto">
+                        @if (@item.appUserId == userId)
+                        {
+                            <a style="max-height: 5vh; text-align: center;" asp-action="Edit" asp-controller="Answer" asp-route-id="@item.Id"><i class="bi bi-pencil-square"></i></a>
+                        }
+                        &nbsp;&nbsp;&nbsp;
+
+                        <a style="max-height: 5vh; text-align: center;" asp-action="Details" asp-controller="Answer" asp-route-id="@item.Id"><i class="bi bi-info-circle"></i></a> &nbsp;&nbsp;&nbsp;
+                        @if (@item.appUserId == userId)
+                        {
+                            <a style="max-height: 5vh; text-align: center;" asp-action="Delete" asp-controller="Answer" asp-route-id="@item.Id"><i class="bi bi-trash-fill"></i></a>
+                        } &nbsp; &nbsp; &nbsp;
+                    </div>
+                </div>
+                <div class="card-body" style="display: flex; ">
+                    <h4>@item.answer</h4>
+                    
+                    <br />
+                </div>
+            </div>
+        </div>
+    </div>
+    <br />
+}
+@if(!flag)
+{
+    <h4 style="display:flex;align-items:center;justify-content:center">No Answer Yet</h4>
+}
+<br />
+<br />
+<br />
+<div  style="margin-top: 1rem; justify-content: center; display: flex; align-items: center">
+    <a class="btn btn-primary" asp-action="Create" asp-controller="Answer" asp-route-id="@Model.question1.Id">Add Answer</a> |
+
+    &nbsp;&nbsp;&nbsp;
+    <a class="btn btn-warning" asp-action="Index">Back</a>
+</div>
